@@ -1,1 +1,1 @@
-// i like eating cookies because i like them
+print("Hello, World!");
